@@ -1,17 +1,17 @@
 # lending-club-case-study
 
-## Partner
-# RAJBEER SINGH
-# RAMA M 
+### Partner
+ * RAJBEER SINGH
+ * RAMA M 
 
-# Evaluation
-# 1. Data Understnading:                      10%
-# 2. Data Cleaning and Manipultion:           20%
-# 3. Data Analysis:                           40%
-# 4. Presentation and Recommendations:        20%
-# 5. Conciseness and readbility of the code:  10%
+### Evaluation
+ *  Data Understnading:                      10%
+ *  Data Cleaning and Manipultion:           20%
+ *  Data Analysis:                           40%
+ *  Presentation and Recommendations:        20%
+ *  Conciseness and readbility of the code:  10%
 
 
 ## Steps 
-# 1. Data cleansing
-# 2. Data transformation
+  *  Data cleansing
+  *  Data transformation
