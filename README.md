@@ -15,3 +15,7 @@
 ## Steps 
   *  Data cleansing
   *  Data transformation
+  *  Univariate Analysis
+  *  Segmented Univariate Analysis
+  *  Bivariate Analysis
+  *  Multivariate analysis
